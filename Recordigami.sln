@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recordigami", "Recordigami\Recordigami.csproj", "{654CB6FD-D2EF-47D9-A526-4D5F337254ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654CB6FD-D2EF-47D9-A526-4D5F337254ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654CB6FD-D2EF-47D9-A526-4D5F337254ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654CB6FD-D2EF-47D9-A526-4D5F337254ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654CB6FD-D2EF-47D9-A526-4D5F337254ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B14BE360-32FF-4DC3-AC91-1EA930619D3F}
+	EndGlobalSection
+EndGlobal
